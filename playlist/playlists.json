@@ -1,1 +1,101 @@
-
+{
+  "playlists": [
+    {
+      "name": "Sports",
+      "file": "Playlist/Sports.m3u",
+      "code": ""
+    },
+    {
+      "name": "Global Top",
+      "file": "Playlist/Global Top.m3u",
+      "code": ""
+    },
+    {
+      "name": "Bangladesh",
+      "file": "Playlist/Bangladesh.m3u",
+      "code": "BD"
+    },
+    {
+      "name": "India",
+      "file": "Playlist/India.m3u",
+      "code": "IN"
+    },
+    {
+      "name": "Pakistan",
+      "file": "Playlist/Pakistan.m3u",
+      "code": "PK"
+    },
+    {
+      "name": "Human Tested",
+      "file": "Playlist/human-tested.m3u",
+      "code": "",
+      "kind": "human_tested"
+    },
+    {
+      "name": "AI Tested",
+      "file": "Playlist/ai-tested.m3u",
+      "code": "",
+      "kind": "ai_tested"
+    },
+    {
+      "name": "Bahrain",
+      "file": "Playlist/Bahrain.m3u",
+      "code": "BH"
+    },
+    {
+      "name": "Egypt",
+      "file": "Playlist/Egypt.m3u",
+      "code": "EG"
+    },
+    {
+      "name": "Iran",
+      "file": "Playlist/Iran.m3u",
+      "code": "IR"
+    },
+    {
+      "name": "Iraq",
+      "file": "Playlist/Iraq.m3u",
+      "code": "IQ"
+    },
+    {
+      "name": "Israel",
+      "file": "Playlist/Israel.m3u",
+      "code": "IL"
+    },
+    {
+      "name": "Kuwait",
+      "file": "Playlist/Kuwait.m3u",
+      "code": "KW"
+    },
+    {
+      "name": "Nepal",
+      "file": "Playlist/Nepal.m3u",
+      "code": "NP"
+    },
+    {
+      "name": "Oman",
+      "file": "Playlist/Oman.m3u",
+      "code": "OM"
+    },
+    {
+      "name": "Qatar",
+      "file": "Playlist/Qatar.m3u",
+      "code": "QA"
+    },
+    {
+      "name": "Saudi Arabia",
+      "file": "Playlist/Saudi_Arabia.m3u",
+      "code": "SA"
+    },
+    {
+      "name": "United Arab Emirates",
+      "file": "Playlist/United_Arab_Emirates.m3u",
+      "code": "AE"
+    },
+    {
+      "name": "United States",
+      "file": "Playlist/United_States.m3u",
+      "code": "US"
+    }
+  ]
+}
